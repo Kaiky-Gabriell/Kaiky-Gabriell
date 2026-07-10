@@ -83,10 +83,10 @@ Sistema CRM completo desenvolvido para uma agência de veículos, cobrindo todo 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaiky-Gabriell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiky-Gabriell&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kaiky-Gabriell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaiky-Gabriell&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaiky-Gabriell&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Kaiky-Gabriell&theme=tokyonight&hide_border=true" />
 
 </div>
 
