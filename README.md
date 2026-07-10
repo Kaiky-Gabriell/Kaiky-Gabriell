@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Kaiky Gabriel 👋
 
-### Desenvolvedor FullStack em Formação | Front-end | Automação com IA
+### Desenvolvedor FullStack | Front-end | Automação com IA
 
 Transformo ideias em produtos web responsivos, rápidos e com design refinado — unindo código sólido a fluxos de trabalho potencializados por Inteligência Artificial para entregar qualidade em tempo recorde.
 
