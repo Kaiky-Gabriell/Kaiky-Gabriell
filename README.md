@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Kaiky Gabriel 👋
+# Olá, me chamo Kaiky Gabriel
 
 ### Desenvolvedor FullStack | Front-end | Automação com IA
 
