@@ -2,9 +2,9 @@
 
 # Olá, me chamo Kaiky Gabriel
 
-### Desenvolvedor FullStack | Front-end | Automação com IA
+### Desenvolvedor FullStack | Front-end, Back-end & Banco de Dados | Automação com IA
 
-Transformo ideias em produtos web responsivos, rápidos e com design refinado — unindo código sólido a fluxos de trabalho potencializados por Inteligência Artificial para entregar qualidade em tempo recorde.
+Desenvolvo sistemas web completos, do front-end à camada de dados — combinando lógica de back-end sólida, modelagem de banco de dados e interfaces responsivas, com fluxos de trabalho potencializados por Inteligência Artificial para entregar qualidade profissional em prazos reduzidos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-gabriel-6267773b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky_teixeirafarias/)
@@ -16,13 +16,13 @@ Transformo ideias em produtos web responsivos, rápidos e com design refinado �
 
 ## 🧑‍💻 Sobre mim
 
-Estou cursando **Técnico em Desenvolvimento de Sistemas** na ETEC Darcy Pereira de Moraes, com foco em me tornar **Desenvolvedor FullStack**. Já aplico esse conhecimento na prática, construindo sistemas web completos — de landing pages de alta conversão a CRMs funcionais com banco de dados próprio.
+Estou cursando **Técnico em Desenvolvimento de Sistemas** na ETEC Darcy Pereira de Moraes, com foco em atuar como **Desenvolvedor FullStack**. Já aplico esse conhecimento na prática, construindo sistemas web completos — desde a modelagem do banco de dados e a lógica de back-end até a interface final, incluindo CRMs funcionais e landing pages de alta conversão.
 
-Meu diferencial é a combinação de **execução técnica + velocidade**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
+Meu diferencial é a combinação de **visão de sistema completo + velocidade de execução**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
 
 - 🔭 Atualmente aprimorando projetos FullStack com foco em sistemas reais para pequenas empresas
 - 🌱 Aprofundando conhecimentos em **JavaScript**, **Python** e **SQL**
-- 💡 Especialista em **design responsivo** — experiência perfeita em desktop e mobile
+- 🧩 Atuação completa em **front-end, back-end e banco de dados** — da estrutura de dados à experiência do usuário
 - 🤝 Aberto a oportunidades de **estágio ou posição júnior** em Desenvolvimento
 - ⚡ Uso IA como ferramenta de produtividade para acelerar entregas sem abrir mão da qualidade
 
