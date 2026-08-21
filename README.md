@@ -96,8 +96,8 @@ Sistema web fullstack para prospecção de negócios por região e categoria, in
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaiky-Gabriell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiky-Gabriell&layout=pie&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaiky-Gabriell&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiky-Gabriell&theme=tokyonight" />
 
 </div>
 
