@@ -97,7 +97,7 @@ Sistema web fullstack para prospecção de negócios por região e categoria, in
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaiky-Gabriell&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiky-Gabriell&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiky-Gabriell&theme=tokyonight" />
 
 </div>
 
