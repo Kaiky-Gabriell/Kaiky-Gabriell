@@ -79,6 +79,19 @@ Sistema CRM completo desenvolvido para uma agência de veículos, cobrindo todo 
 
 ---
 
+### 🔹 [Buscador de Negócios Locais](https://github.com/Kaiky-Gabriell/Buscador-de-Neg-cios-Locais)
+Sistema web fullstack para prospecção de negócios por região e categoria, integrado ao OpenStreetMap. Pensado para quem precisa encontrar estabelecimentos, coletar contatos e partir direto para a prospecção:
+
+- 🔍 Busca por categoria (barbearia, restaurante, farmácia etc.) em qualquer cidade do Brasil
+- 🗺️ Geocodificação via Nominatim e consulta à Overpass API para retornar nome, telefone, site, endereço e horário de funcionamento
+- 📥 Exportação dos resultados em CSV — somente os números ou os dados completos
+- ⚙️ API Route própria no back-end com validação de inputs e tratamento de erros
+- 🎨 Interface responsiva com background animado via WebGL
+
+`Next.js` `TypeScript` `Tailwind CSS` `OpenStreetMap` `API REST`
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
