@@ -1,120 +1,121 @@
 <div align="center">
 
-# Olá, me chamo Kaiky Gabriel
+# Kaiky Gabriel
 
-### Desenvolvedor FullStack | Front-end, Back-end & Banco de Dados | Automação com IA
+### Founder & CEO @ NexOra
 
-Desenvolvo sistemas web completos, do front-end à camada de dados — combinando lógica de back-end sólida, modelagem de banco de dados e interfaces responsivas, com fluxos de trabalho potencializados por Inteligência Artificial para entregar qualidade profissional em prazos reduzidos.
+**Construindo o futuro da gestão comercial com inteligência artificial.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-gabriel-6267773b9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky_teixeirafarias/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikyg.t.farias@gmail.com)
+Empreendedor de tecnologia. Criador de soluções. Movido pela ambição de transformar a maneira como empresas crescem, vendem e se relacionam com seus clientes.
+
+<br>
+
+[![NexOra](https://img.shields.io/badge/CONHEÇA_O_NEXORA-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexoracrm.tech)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-gabriel-6267773b9/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky_teixeirafarias/)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Não se trata apenas de criar um software.
 
-Estou cursando **Técnico em Desenvolvimento de Sistemas** na ETEC Darcy Pereira de Moraes, com foco em atuar como **Desenvolvedor FullStack**. Já aplico esse conhecimento na prática, construindo sistemas web completos — desde a modelagem do banco de dados e a lógica de back-end até a interface final, incluindo CRMs funcionais e landing pages de alta conversão.
+### Trata-se de transformar a maneira como as empresas trabalham.
 
-Meu diferencial é a combinação de **visão de sistema completo + velocidade de execução**: uso IA de forma estratégica em todo o meu fluxo de desenvolvimento, o que me permite entregar projetos com qualidade profissional em prazos muito menores que o convencional.
+Acredito que negócios não deveriam perder oportunidades por falta de organização, processos manuais ou ferramentas que não acompanham seu crescimento.
 
-- 🔭 Atualmente aprimorando projetos FullStack com foco em sistemas reais para pequenas empresas
-- 🌱 Aprofundando conhecimentos em **JavaScript**, **Python** e **SQL**
-- 🧩 Atuação completa em **front-end, back-end e banco de dados** — da estrutura de dados à experiência do usuário
-- 🤝 Aberto a oportunidades de **estágio ou posição júnior** em Desenvolvimento
-- ⚡ Uso IA como ferramenta de produtividade para acelerar entregas sem abrir mão da qualidade
+Foi dessa visão que nasceu o **NexOra**.
+
+Uma plataforma desenvolvida para aproximar empresas dos seus clientes, simplificar operações comerciais e colocar a inteligência artificial a serviço dos negócios.
+
+Meu objetivo não é apenas construir tecnologia.
+
+**É construir soluções que façam diferença na operação de uma empresa.**
 
 ---
-
-## 🛠️ Stack & Ferramentas
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+# NexOra
+
+### Sua operação comercial. Mais inteligente. Mais conectada. Mais eficiente.
+
+**Um novo jeito de gerenciar clientes, conversas e oportunidades.**
+
+[![Conhecer plataforma](https://img.shields.io/badge/EXPLORAR_O_NEXORA-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://nexoracrm.tech)
 
 </div>
 
-**Nível de domínio:**
+### Empresas crescem. A gestão precisa acompanhar.
 
-| Tecnologia | Nível |
+Imagine ter seus contatos, oportunidades comerciais, conversas e informações importantes organizados em um único lugar.
+
+Agora imagine combinar tudo isso com automação e inteligência artificial.
+
+**Essa é a visão por trás do NexOra.**
+
+| | O que o NexOra oferece |
 |---|---|
-| JavaScript | ⭐⭐⭐⭐⭐ Uso avançado no dia a dia |
-| SQL | ⭐⭐⭐⭐⭐ Modelagem e sistemas completos |
-| HTML & CSS | ⭐⭐⭐⭐☆ Design responsivo sólido |
-| Python | ⭐⭐⭐☆☆ Resolução de problemas |
+| 🎯 **Mais oportunidades** | Uma operação comercial mais organizada, do primeiro contato à negociação. |
+| 💬 **Conversas conectadas** | Atendimento e relacionamento com clientes integrados à rotina da empresa. |
+| 🤖 **Inteligência aplicada** | IA para apoiar atendimentos e tornar processos mais eficientes. |
+| 📊 **Visibilidade comercial** | Acompanhamento de contatos, negociações e oportunidades. |
+| ⚡ **Menos trabalho manual** | Automação de tarefas para liberar tempo da equipe. |
+| 🤝 **Equipes alinhadas** | Uma estrutura pensada para facilitar a gestão comercial. |
+
+### Tecnologia que trabalha a favor do seu negócio.
+
+O NexOra está sendo desenvolvido com uma missão clara:
+
+**Tornar a gestão comercial inteligente mais acessível, prática e eficiente para empresas de diferentes tamanhos.**
+
+Não queremos criar mais uma ferramenta complicada.
+
+Queremos construir uma plataforma que as empresas realmente gostem de utilizar.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Minha visão como fundador
 
-### 🔹 [Nexcode — Premium Launch](https://github.com/Kaiky-Gabriell/nexcode-premium-launch)
-Landing page institucional de alta conversão, com captação e qualificação de leads via formulário integrado diretamente ao WhatsApp. Design elegante, refinado e totalmente responsivo.
+Acredito que grandes negócios começam quando alguém decide resolver um problema que muitos já aprenderam a aceitar.
 
-**🔗 [Ver projeto ao vivo](https://kaiky-gabriell.github.io/nexcode-premium-launch/)**
+É essa mentalidade que levo para o NexOra.
 
-`HTML` `CSS` `JavaScript` `UI/UX` `Lead Generation`
+**Pensar como empreendedor. Construir com propósito. Evoluir com visão de longo prazo.**
 
----
+Estou à frente do desenvolvimento e da evolução do produto, conectando tecnologia, necessidades reais do mercado e estratégia de negócio.
 
-### 🔹 [CRM Car Agency](https://github.com/Kaiky-Gabriell/CRM-CAR-AGENCY)
-Sistema CRM completo desenvolvido para uma agência de veículos, cobrindo todo o funil de vendas real do negócio:
+O objetivo é simples de explicar, mas ambicioso de executar:
 
-- 📋 Cadastro de clientes, veículos e etapas de negociação
-- 📊 Dashboard com métricas mensais (valores, clientes fechados, status de negociação)
-- 💬 Acesso direto ao WhatsApp do cliente a partir do sistema, evitando perda de leads
-- 🗄️ Banco de dados próprio para persistência de todas as informações
-- 📱 Totalmente responsivo, funcionando como sistema web completo
+> Criar uma plataforma capaz de mudar a forma como empresas administram seus relacionamentos comerciais.
 
-**🔗 [Ver projeto ao vivo](https://kaiky-gabriell.github.io/CRM-CAR-AGENCY/#/login)**
-
-`Front-end` `Back-end` `SQL` `Dashboard` `Sistema de Gestão`
+O NexOra é o começo dessa jornada.
 
 ---
-
-### 🔹 [Buscador de Negócios Locais](https://github.com/Kaiky-Gabriell/Buscador-de-Neg-cios-Locais)
-Sistema web fullstack para prospecção de negócios por região e categoria, integrado ao OpenStreetMap. Pensado para quem precisa encontrar estabelecimentos, coletar contatos e partir direto para a prospecção:
-
-- 🔍 Busca por categoria (barbearia, restaurante, farmácia etc.) em qualquer cidade do Brasil
-- 🗺️ Geocodificação via Nominatim e consulta à Overpass API para retornar nome, telefone, site, endereço e horário de funcionamento
-- 📥 Exportação dos resultados em CSV — somente os números ou os dados completos
-- ⚙️ API Route própria no back-end com validação de inputs e tratamento de erros
-- 🎨 Interface responsiva com background animado via WebGL
-
-`Next.js` `TypeScript` `Tailwind CSS` `OpenStreetMap` `API REST`
-
----
-
-## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaiky-Gabriell&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiky-Gabriell&theme=tokyonight" />
+## Vamos construir algo relevante?
+
+### Negócios, tecnologia e boas conexões começam com uma conversa.
+
+Se você é empresário e procura uma maneira mais inteligente de organizar sua operação comercial, conheça o NexOra.
+
+Se você acredita no potencial da tecnologia para transformar negócios, vamos nos conectar.
+
+<br>
+
+[![Conheça o NexOra](https://img.shields.io/badge/CONHEÇA_A_PLATAFORMA-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexoracrm.tech)
+[![LinkedIn](https://img.shields.io/badge/VAMOS_NOS_CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-gabriel-6267773b9/)
+[![Email](https://img.shields.io/badge/CONTATO_COMERCIAL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikyg.t.farias@gmail.com)
+
+<br>
+
+**Kaiky Gabriel**
+
+Founder @ NexOra
+
+*Building technology. Creating opportunities. Transforming business.*
 
 </div>
-
----
-
-## 📬 Vamos conversar?
-
-Estou em busca da minha primeira oportunidade no mercado de tecnologia e aberto a networking, parcerias em projetos e vagas de estágio/júnior. Me chama em qualquer um dos canais abaixo:
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Kaiky_Gabriel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-gabriel-6267773b9/)
-[![Instagram](https://img.shields.io/badge/-kaiky__teixeirafarias-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky_teixeirafarias/)
-[![Gmail](https://img.shields.io/badge/-kaikyg.t.farias@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaikyg.t.farias@gmail.com)
-
-</div>
-
-<div align="center">
-<sub>⭐️ Se algum dos meus projetos te interessou, deixe uma estrela no repositório!</sub>
-</div>
+```
