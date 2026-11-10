@@ -2,7 +2,7 @@
 
 # Kaiky Gabriel
 
-### Founder & CEO @ NexOra
+### Founder & CEO @ NexCode | NexOra
 
 **Construindo o futuro da gestão comercial com inteligência artificial.**
 
